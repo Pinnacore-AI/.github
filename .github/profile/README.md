@@ -1,6 +1,14 @@
 # Pinnacore AI
 
-**Suomalainen avoin tekoäly, joka oppii tuntemaan sinut.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pinnacore-AI/ajatuskumppani/master/assets/logos/ajatuskumppani-banner.png" alt="Ajatuskumppani Banner" width="800"/>
+</p>
+
+<p align="center">
+  <strong>Suomalainen avoin tekoäly, joka oppii tuntemaan sinut.</strong>
+</p>
+
+---
 
 Pinnacore AI on suomalainen teknologiayritys, joka rakentaa avoimen lähdekoodin tekoälyalustoja. Tavoitteemme on luoda ensimmäinen eurooppalainen käyttäjälähtöinen AI-käyttöjärjestelmä, joka yhdistää yksityisyyden, avoimuuden ja älykkyyden.
 
@@ -75,7 +83,11 @@ Käytämme multi-license-mallia:
 
 ---
 
-**Built in Finland. Open to the world.** 🇫🇮
+<p align="center">
+  <strong>Built in Finland. Open to the world.</strong> 🇫🇮
+</p>
 
-*"Ajatuskumppani – tekoäly, joka oppii sinut."*
+<p align="center">
+  <em>"Ajatuskumppani – tekoäly, joka oppii sinut."</em>
+</p>
 
