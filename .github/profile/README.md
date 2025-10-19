@@ -62,9 +62,10 @@ Pinnacore AI on suomalainen teknologiayritys, joka rakentaa avoimen lähdekoodin
 
 Tervetuloa mukaan rakentamaan tulevaisuuden tekoälyä!
 
-- 📱 **Telegram**: https://t.me/ajatuskumppani - Liity yhteisöön!
-- 💬 **Discord**: [Tulossa]
-- 📧 **Lead Developer**: kryptonaatti@pinnacore.ai
+- 📱 **Telegram**: https://t.me/ajatuskumppani - Pääyhteisö
+- 💬 **Discord**: https://discord.gg/z53hngJHd - Tekniset keskustelut
+- 👑 **Founder & CEO**: gronmark@pinnacore.ai (www.pinnacore.ai)
+- 🔧 **Web3 Developer**: kryptonaatti@pinnacore.ai
 - 📧 **General Inquiries**: ajatuskumppani@pinnacore.ai
 - 🌐 **Website**: https://pinnacore.ai
 
